@@ -6,10 +6,9 @@ published: true
 ---
 
 
-This blog contains my thoughts on Minimalism philosophy.
+> This my Blog is in Slovak language. My other blogs in English: [Webdeveloper Blog](https://blog.eq8.eu)
 
-Author: EquiValent
+Autor: EquiValent
 
-Contact: <a href="mailto:{{site.email}}">{{site.email}}</a>
+Kontakt: <a href="mailto:{{site.email}}">{{site.email}}</a>
 
-Blog is Open Source and can be found [here](https://github.com/equivalent-philosophy/minimalism/tree/master/_posts)
