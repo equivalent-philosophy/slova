@@ -176,7 +176,7 @@ Stale neviete ako na to ? Prečítajte si  čo robia iné uspešné firemne blog
 V minuslosti bola obľúbená taktika používaẗ takzvané "Google Bomby" pri
 ktorých stačilo na rôzne populárne stranky ľubovolnej tematiky vytvoriť link s klúčovými
 slovami odkazujuce na stranku firmy. Napriklad SEO firmy by zaplatili
-uverejnenie linku `<a href="http://moja-welnes-firma.sk">sauna</a>` na
+uverejnenie linku `<a href="http://welnes-hviezdicka-nitra.sk">sauna</a>` na
 rôzne populárne stránky a tie by efektívne preniesli  časť popularity danej stranky
 v prospech našej fiktívnej wellness stránky.
 
@@ -190,7 +190,32 @@ Takže ak Vám kamarát ktory predáva kvetiny ponúkne, že Vam dá link na
 Vašu wellnes stránku je to v poriadku. Ak to spravia ďaľši traja kamaráti (mesiarstvo, elektrikar, taxi stránka) tak stale v pohode. Ale ak Google zistí, že Vás prelinkovalo 20 stránok a žiadna
 nemá ani zmienku o wellness tak sa naštve a  zníži Vám  "page rank" ostatných liknov.
 
+## Blogové portáli bez prelinkovania
 
+Najideálnejšie blogové portáli su tie ktore zobrazia Vaše linky tak ako
+ich zverejníťe. To znamená klik na link `[Sauna]` ihneď otvorí stránku `http://welnes-hviezdicka-nitra.sk`.
+
+V tomto prípade linky v článku majú vplyve na pozíciu v Google.
+
+Nietoré blogové portáli avšaka "prekrývaju" Vaše linky. Napríklad ak urobýte
+link `[Sauna]` na Vašu stranku `http://welnes-hviezdicka-nitra.sk`
+blogový portál može nasmerovať link na `http://blogovy-portal.sk/goto=http://welnes-hviezdicka-nitra.sk` a až ten otvorí `http://welnes-hviezdicka-nitra.sk`.
+
+V tomto prípade linky v článku  NEMAJÚ vplyve na pozíciu v Google. Avšak
+to nevadí pretože ak naozaj píšete články čo ľudi zaujmaju a pomahajú im
+tak sa klienti k Vám prekliknú. V takýchto blog portáloch aspoň nemusíte
+skrývat linky na Vašu stránku v texte.
+
+Ako to rozoznáte ?
+
+Pokial ste technický typ Vaše linky by mali generovat HTML link podobny:
+`<a href="http://welnes-hviezdicka-nitra.sk">sauna</a>`
+
+> Ked načítate Váš zverejnený blog zmačknite klavesovú skratku ctrl+u
+> .To otvorí takzvany "zdrojový kód" článku. Nezlaknite sa, nedá sa tam
+> nič pokaziť
+
+Pakial nieste technický typ
 
 ## Otázky ktoré Vás pravdepodobne napdli:
 
@@ -201,3 +226,5 @@ Odpoveď: nie Google zaindexuje Vašu stranku, a keď zisti že na nej
 nemáte žiadne texty k veci (napr: o saunach) tak Vaš članok vyhodnotí ako "Google
 bombu" a dá Vám oveľa menší pagerank ako by ste získali ak by ste na
 Vašej stránke texty mali.
+
+
