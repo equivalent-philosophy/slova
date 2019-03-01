@@ -134,8 +134,8 @@ Text "sauny Nitra" je vybratý zámerne. Isto sa pýtate prečo sme radšej neuv
 
 > Príklad pre vyššie spomínanú firmu Elkar:
 >
-> ...preto pre [úprava trávnikov](https://elkar.sk/) odporúčame
-> nízkoprofilové kosačky...
+> ...preto [úprava trávnikov](https://elkar.sk/) sa odporúča
+> celoročne...
 >
 > `[úprava trávnikov]` je link na stránku `https://elkar.sk/`
 
