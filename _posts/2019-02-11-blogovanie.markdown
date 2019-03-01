@@ -3,55 +3,57 @@ layout: post
 title: Blogovanie na propagáciu firmy
 ---
 
-Jednym z hravných ekonomických problemov Slovenska je, že ľudia majú
-dobrý napad na biznis ale nevedia ho spropagovať. Každý Vám povie, že
-treba firma musi mať webstranku, ale je jedna vec webstránku mať a druhá mať
-webstránku ktorú dokážu potencionálny zákaznici nájsť. V tomto článku Vam podám moje rady na túto tému.
+Jedným z hravných ekonomických problémov Slovenska je, že ľudia majú
+dobrý napad na biznis, ale nevedia ho spropagovať. Každý Vám povie, že
+treba firma musí mať web stránku. Je jedna vec web stránku mať a druhá mať
+web stránku ktorú dokážu potencionálny zákaznici nájsť. V tomto článku Vám podám moje rady na túto tému.
 
-> V oblasti vytvárania webstránok mám 12 rokov profesionálnej praxe.
+> V oblasti vytvárania web stránok mám 12 rokov profesionálnej praxe.
 > Tento článok sa však pokúsim napísať spôsobom aby porozumel každý.
-> Takže som si vedomí, že niektoré fakty niesu 100% spravne ale skôr
+> Takže som si vedomí, že niektoré fakty ktoré tu uvediem niesu 100% spravne, ale skôr
 > pragmaticky vysvetlené pre širšiu verejnosť. Ak čitateľ hľadá viac
 > presné a technnickejšie materialy odporúčam
 > Google WebMaster [články](https://support.google.com/webmasters/answer/7451184?hl=en) a 
 > [videá](https://www.youtube.com/user/GoogleWebmasterHelp)
 
-Mojou prioritou je týmto článkom pomôcẗ presadiť sa malým firmám
-čo nemajú peniažky na platené reklamy alebo platené SEO služby, preto ich nebudem v článku
+Prioritou tohto článku je pomôcẗ presadiť sa malým firmám, ktoré nemajú peniažky na platené reklamy, alebo platené SEO služby, preto ich nebudem v článku
 preberať. Nieže by tieto taktiky nefungovali ale vytvárajú na internete chaos ktorým
 z dlhodobého hladiska môže Vaša firma viac utrpieť ako získať.
 
-Správna filozofia na zadarmo reklamu je jednoduchá: Píšte zaujmavý obsah
-ktorý ľuďom pomôže a ľudia Vás spropaguju, Google Vás spropaguje (vyšší
-*page rank*)
+Správna filozofia na zadarmo reklamu je jednoduchá: **Píšte zaujmavý obsah
+ktorý ľuďom pomôže a ľudia Vás spropaguju a aj Google Vás spropaguje** (vyšší *page rank*)
 
-> "*page rank*" - znamená pozícia v vyhľadávači, napr. pozícia Vašej stránky keď
-> niekto vyhľadáva kľúčove slova cez Google
+> "*page rank*" - znamená pozícia vo vyhľadávači. Napr. pozícia Vašej stránky keď  niekto vyhľadáva "kľúčove slova" cez Google
 
-> "*kľúčové slová*" - znamenajú slová pod ktorými by Vás mali
-> potencionálni klienti nájst. Napríklad "sauna", "velness Nitra"
+> "*kľúčové slová*" - znamenajú slová pod ktorými by Vás mal
+> potencionálny klient nájsť. Napríklad "sauna", "velness Nitra"
 
 
-Budeme sa zaoberaẗ ako spropagovat fiktívnu wellness firmu "*Welness Hviezdička*" so stránkou `http://welnes-hviezdicka-nitra.sk`
+V článku, ako príklad, sa budem snažiť  spropagovat imaginárnu wellness firmu "*Welness Hviezdička*" s fiktívnou  stránkou `http://welnes-hviezdicka-nitra.sk`
 
 ## Vaša Stránka
 
-V prvom rade si treba vysvetliẗ prvé pravidlo internetu: **Kvalitny obsah
-stranok zvyšuje pagerank.**
+V prvom rade si treba vysvetliẗ prvé pravidlo internetu: **Kvalitný obsah
+stránok zvyšuje pagerank.**
 
-> Vyšší "pagerank" znamená, že ked niekto vyhľadá kľúčové slová ako "sauna" alebo "dovolenka" stránka wellness stránky by sa mala naturálne objaviť na vrchole Google vyhľadávania
+> Vyšší "pagerank" znamená, že ked niekto vyhľadá "kľúčové slová" ako "sauna" alebo "dovolenka", stránka našej fiktívnej wellness stránky by sa mala prirodzene objaviť na vrchole Google vyhľadávania
 
 To znamená, že Vaša stránka by mala poskytovať kvalitné informácie.
 
 V pripade Wellness stránky by na nej mali byẗ očividné informácie ako
 adresa prevadzky, kontakt, ponúkané služby, ale aj vysvetlenie čo dané
 služby sú a ako pôsobia a pomáhajú. Napríklad aké typy saun prevádzka
-poskytuje, ako pôsobia na zdravie, riziká, atd. Všetko to čo by sa potreboval
-návštevnik dozvedieť.
+poskytuje, ako pôsobia na zdravie, riziká, atd. Všetko to čo by sa potreboval návštevnik dozvedieť.
 
 Dajte dôraz na Qualitu a nie Quantitu ! Ak Vás nenapadne viac ako tri
-vety asi je to zle ale ešte horsie je ak Vas napadne tristo viet. Chcete
+vety asi je to zle ale ešte horsie je ak Vás napadne tristo viet. Chcete
 zákazníka prilákať nie znechutiẗ.
+
+Inšpirujte sa na internete.
+
+Príklad dobre napísaneho textu stránky je [Elkar s.r.o.](https://elkar.sk/) (kamarátová stránka).
+O téme udržiavania trávnikou sa dá písať na 500 strán, ale zvolili sme
+takú taktiku aby sme zákaznikou neodradili zbytočným obsahom: Jasne stručne, výstižne. Wellness stránka bude pravdepodobne potrebovať viac textu ale Elkar.sk je priklad, že aj málo textu je dosť.
 
 ## Propagácia
 
@@ -62,27 +64,33 @@ Píšte blogy zaoberajúce sa tematikou, spropagujte sa svetu.
 Chodte na slovenské blogové portáli napriklad:
 <https://blog.refresher.sk/>, <http://blog.pravda.sk/>, <https://blog.sme.sk/>, a iné
 
-> Ak máte blog priamo na Vašej stránke nemusí byť nájditeľný. Kludne
-> píšte blog na Vašej stránke a potom ho možete skopírovať aj na iné
+> Ak máte blog alebo články priamo na Vašej stránke nemusía byť nájditeľné. Kludne
+> píšte články/blog na Vašej stránke a potom ich môžete skopírovať aj na iné
 > portály (takzvaný mirror)
 
-Napriklad napíšte ǰeden blog článok o posobení sauny na stres, druhý článok o tom ako
-Vám plávanie pomohlo s bolesťou chrbta. Treti o tom ako Vam zakaznici
+Napríklad napíšte ǰeden blog článok o pôsobení sauny na stres, druhý článok o tom ako
+Vám plávanie pomohlo s bolesťou chrbta. Tretí o tom ako Vam zakaznici
 hovorili skusenosti s Wellness a chudnutim, ... tieto temy si ja
-vymýšlam ako príklad ale Vy píšte pravdivo!
+vymýšlam, ako príklad, ale Vy píšte pravdivo!
 
 Píšte k veci, k tomu čo sa vyznáte, nevymýšlajte si.
-**Je rozdiel sa spropagovat a rozdiel zdiskreditovať.** Hlavne na
-internete meno firmy môže byť dlohodobo utrpieť škodu kedže aj
+**Je rozdiel sa spropagovat a rozdiel zdiskreditovať.** Na
+internete meno firmy môže byť dlohodobo utrpieť škodu. Aj
 existujúci zákaznici Vás možu prestať navštevovat ak si poškodíte meno
-neprofesionálnosťou.
+neprofesionálnosťou. Čo je raz na internete to je tam navždy.
 
-Nesnažte sa natlačiť Vsetky myslikenky do jedneho blog článku.
-Blogovanie je dlhodoby proces ktorý nikdy neskončí (Ja moj hlavny blog
-<https://blog.eq8.eu> píšem už 5 rokov).
+Nesnažte sa natlačiť Vsetky myšlienky do jedného blog článku.
+Blogovanie je dlhodoby proces ktorý nikdy neskončí (Ja moj hlavný blog
+<https://blog.eq8.eu> píšem už 5 rokov. Okolo 120 článkov a ešte som
+neskončil).
 
-Blog nech neni moc formálny. Nepíšete vedeckú esej. Budte osobný (osobné
-skusenosti, skúsenosti klientov, atď)
+Blog nech neni moc formálny a nudný. Nepíšete vedeckú esej.
+Článok nemusí byť dokonalí.
+Budte osobný (osobné skusenosti, skúsenosti klientov, atď).
+
+> Môj onobný názor je, ze nemá cenu stráviť za blog článkom dva týždne intenzívnej roboty keď si ho možno prečíta 5 ľudí a možno 50000 ľudí.
+> Niekedy články ktoré som zbúchal za 30 minút mali viac prečítaní ako
+> članky ktoré som písal týždeň.
 
 Nezabudnite sa pripomenúť kto ste (firma) v obsahu blogu. Napr:
 
