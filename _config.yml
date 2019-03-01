@@ -1,7 +1,7 @@
 ### EquiValent - Slovak Blog
 
 title: Slovensky Blog
-#baseurl: 
+# baseurl: https://slova.eq8.eu
 email: equivalent@eq8.eu
 
 
@@ -36,5 +36,6 @@ sass:
 exclude:
 - README.md
 
+permalink: /:title.html
 
-plugins: [jekyll-seo-tag, jekyll-paginate]
+plugins: [jekyll-seo-tag]
