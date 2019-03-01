@@ -234,6 +234,9 @@ to nevadí pretože ak naozaj píšete články čo ľudi zaujmaju a pomahajú i
 tak sa klienti k Vám prekliknú. V takýchto blog portáloch aspoň nemusíte
 skrývat linky na Vašu stránku v texte.
 
+Osobne odporúčam používat blogové portály, ktoré ne-prekrývajú Vaše
+linky.
+
 Ako to rozoznáte ?
 
 Pokial ste technický typ Vaše linky by mali generovat HTML link podobny:
@@ -254,7 +257,7 @@ nemáte žiadne texty k veci (napr: o saunach) tak Vaš članok vyhodnotí ako "
 bombu" a dá Vám oveľa menší pagerank ako by ste získali ak by ste na
 Vašej stránke texty mali.
 
-Otázka: *Tak zaplatím dákemu študentovi nech píše prelinkované članky za mňa. Hociaké články budú fungovať?*
+Otázka: *Tak zaplatím dákemu študentovi/SEO firme nech píše prelinkované članky za mňa. Hociaké články budú fungovať?*
 
 Odpoveď:  Nieže by tieto taktiky nefungovali ale vytvárajú na internete chaos ktorým
 z dlhodobého  Vaša firma viac utrpí ako získa. Google
@@ -262,5 +265,6 @@ algoritmus postupne zistí čo robíte a začne znižovať page rank. Klienti
 čo čítajú tieto články Vám prestanu doverovať (keďže ich obsah bude
 nekvalitný) a miesto dlhodobej
 klienteli k Vám prídu len jednorázový návštevníci ktory Vás vygooglili.
+Vy ste profesional v danej oblasti, vy viete o téme najviac.
 
 
