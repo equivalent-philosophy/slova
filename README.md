@@ -1,6 +1,6 @@
-# Philosophy blog
+# random thougts blog in Slovak language
 
-http://minimalism.eq8.eu
+http://slova.eq8.eu
 
 
 ### About code
