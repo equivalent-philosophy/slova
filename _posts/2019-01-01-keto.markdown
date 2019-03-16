@@ -34,6 +34,8 @@ ze aj LDL prichadza v dvoch formach molekuly a v pocte molekul.
 * Mala molekula (*Small dense LDL particle*, na obrazku B)
 * Velka molekula (*Large dense LDL particle*, na obrazku A)
 
+![](https://raw.githubusercontent.com/equivalent-philosophy/slova/master/assets/small-dense-ldl-vs-high-dense-ldl.png)
+
 Ked pojdete k doktorovy a povie Vam, ze mate zvyseny LDL (zly)
 cholesterol to Vam povie iba koncentraciu na deciliter krvy. Nepovie Vam
 aku molekulu alebo mnozstvo ktorej molekuly v krvy mate.
