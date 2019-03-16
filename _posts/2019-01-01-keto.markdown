@@ -1,0 +1,46 @@
+---
+layout: post
+title: Keto
+---
+
+
+# Keto, Low Carb a Fasting
+
+V tomto clanku budem moje poznamky o Keto a Low Carb diete ako i Fastingu v Slovencine.
+
+Clanok su len moje poznamky z roznych vedeckych a lekarskych prezentacii. Vsetky
+zdroj pre tvrdenia uvadzam. Ja niesom doktor, niesom nutricny vedec som
+len programator co sa o tuto temu zaujma a studuje studie inych doktorov a
+vedcov ktory o tejto teme vedia viac nez ja.
+
+Ako vravim Su to len poznamky. Preto nedbam na pravopis ani gramatiku.
+Vopred sa ospravldnujem za gramaticke chyby ktore v texte isto najdete.
+
+Sustredim sa vsak na spravnu formulaciu faktov a pisem sem len veci
+ktore viem podlozit studiami/prezentaciami/videami.
+
+> Ak hladate skor zdroje v anglictine v lepsej kvalite ako je tento clanok odporucam [Kolekcia linkov o Keto, Low Carb a Fastingu](https://github.com/equivalent/awesome-links/blob/master/healthy-eating.md)
+
+
+## Cholesterol
+
+Popularne zdroje bezne tvrdia ze existuje "Dobry Cholesterol" (HDL -
+*High Dense Lypoprotine*) a
+"Zly cholesterol" (LDL - *Low Dense Lypoprotine*).
+
+Problem je vsak v tom
+ze aj LDL prichadza v dvoch formach molekuly a v pocte molekul.
+
+* Mala molekula (*Small dense LDL particle*, na obrazku B)
+* Velka molekula (*Large dense LDL particle*, na obrazku A)
+
+Ked pojdete k doktorovy a povie Vam, ze mate zvyseny LDL (zly)
+cholesterol to Vam povie iba koncentraciu na deciliter krvy. Nepovie Vam
+aku molekulu alebo mnozstvo ktorej molekuly v krvy mate.
+
+Ked sa stravujete hlavne carbohydratmi tak vasa pecen hlavne produkuje
+malu melekulu (*small dense LDL*) Ked primate stravu v *Low Carb* alebo
+*Keto* tak mate v krvy hlavne velke molekuly.
+
+
+> Zdroj [Is Keto Bad For Your Heart — Dr. Eric Thorn](https://youtu.be/pxUD8fEHpTk?t=1244), [Dr. Rhonda Patrick on LDL at J.Roagan podcast](https://www.youtube.com/watch?v=VnYeuES3joc)
