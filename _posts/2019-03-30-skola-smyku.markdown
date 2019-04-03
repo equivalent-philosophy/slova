@@ -30,8 +30,10 @@ Poloha v sedadle je dolezita
 * päst by sa mala zmestit medzi hlavu a strechu
 * ruky by mali byt pokrcene => pri naraze nedolame
 * volant drzat 3 hodiny 45minut (15:45)
-  * volant nedrezat 10 10 ( 22:10) => neprekrutis volant pri  manevre
-* pokrcene nohy
+  * dokazes manevrovat volant => takzvane "mydlenie tatierov" :)
+  * volant nedrezat 10 10 ( 22:10 , 2:50) => neprekrutis volant pri  manevre
+* pokrcene nohy (lepsie zaberes na brzdu v nebespecnej situacii aby
+  zareagovalo ABS)
 * vola musis vidiet kontrolky
 * minilamle 30cm (velkost A4 papiera) medzi volantom a hrudnikom => je
   tam airbag, ked vystreli a si moc blyzko dolame rebra
@@ -68,5 +70,37 @@ telu uplne => stracaju sa  tam centimetre ktore zachrania zivot
 Vacsina modernich aut ma "pritahovac pasu" => ked sa supsti airbag tak
 zaroven ti pas ako keby pritiahlo => menej lietas v aute pri naraze 
 
+Bezpecnosny pas cez klucnu kost (tesne pod klucnou kostou). Pas nemoze ist cez krk (Uskrtita)
+nemoze ist cez plece (pri naraze ta stoci do jednej strany => drie ta
+airbag)
+
+V stede volantu je airbag => nedrzat volant tak ze mas ruky na strede
+volantu. Pripadne pred narazom nespanikarit a nedrzat tam ruky.
+
+Ked sa ABS aktivuje (pri dupnuti z celej sily na brzdu) brzdny pedal ako
+keby "kopal" => auto vlane prerusovane brzdi za teba.
+
+> Treba si uvedomit ze "dupnut z celej sily na brzdu" tak aby sa ABS
+> aktivovalo je rozdiel ked to vie clovek teoreticky a ked to ma spravit
+> prakticky. Sam som bol prekvapeny ako "slabo" brzdim ked mam dupnut na
+> brzdu pri praktickych jazdach na letisku
+
+
+Ak auto nema ABS tak pistia gumy pri dupnuti na brzdu (neni tam to
+prerusovanie)
+
+ABS sa sprava rovnako pri 90 km/h ako pri 30 km/h akurat brzdndna draha
+je kvadrativne dlhsia:
+
+* pri 90 km/h na suchej ceste  je brzdna draha cca 22m
+* pri 60 km/h na suchej ceste  je brzdna draha cca 10m
+* pri 30 km/h na suchej ceste  je brzdna draha cca 2.5m
+* pri 90 km/h na Mokrej ceste  je brzdna draha cca 27m
+* pri 60 km/h na Mokrej ceste  je brzdna draha cca 12m
+* pri 30 km/h na Mokrej ceste  je brzdna draha cca 3m
+* pri 90 km/h na snehu  je brzdna draha cca 67m !
+
+> sam som tomu neveril ako som v 50 km/h rychlosti na mokrom povrchu co
+> ma pripominat sneh presiel na Letnych gumach cez cez 30m drahu na smyku 
 
 
