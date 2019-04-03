@@ -162,3 +162,105 @@ naprave)
 Manualna rucna brzda => cele  zle => nema abs =>Auto strati kontrolu ak
 sa zatiahne
 
+
+ABS brzdi tak aby brzdilo v priamom smere (prerusovane brzdenie)
+
+### smyky
+
+![](https://raw.githubusercontent.com/equivalent-philosophy/slova/master/assets/skola-smyku-5.jpg)
+
+
+Nedotacavy Smyk
+
+(smyk pri ktorom chces ist do zakruty ale auto ide rovno)
+
+* prudka zmena ppovrch (napriklad rostapa sa namraza)
+
+Pretacavy smyk
+
+(smyk pri ktorom si okopiroval zakrutu  ale auto pokracuje v toceni (ako keby do hodin))
+
+* auta s pohon zadnych kolies su viac nachylne
+* rychla jazda / prudke brzdenie
+* zle pneu na zadnej naprave
+
+
+> Deformacna zona: naraz z predu je lepsi  (celny naraz) nez naraz z
+> boku auta =>auto je na to viac stavane
+
+
+optymalne rozlozenie vahy auta je 50% vahy v predu 50% v zadu =>
+stabilne auto.
+
+Drahsie auta maju lepsie vyvazenie => drahsie suciastky tak aby toto
+rozlozenie bolo optimalne (napr mercedes bmw)
+
+pri zrychleni je vaha viac vzadu 
+
+pri brzdeni je vaha viac v predu
+
+Kazde auto ma maximalne zvladnutelny polomer richlosti (napriklad pri
+30km/h urobis istu kruznicu, pri 60km/h ovela vecsiu kruznicu) 
+
+Pri nedotacavom smyku:
+* manual prevodovka = ubrat plyn (nie zaslapovat spojku)
+* automat prevodovka = pustit plyn
+
+Pri pretacovom smyku: 
+* manual - natocit volant "kam chces ist" + zoslapnut spojku
+* automat - natocit volant "kam chces ist" + pustit plyn (Kedze tam
+  spojka neni)
+
+
+> v ziadnom pripade nebrzdit a nepridavat plyn kedze zmenis len
+> rozlozenie vahy. Bud prejdes z nedotacaveho smyku do pretacaveho alebo
+> uplne stratis kontrolu v pretacavom smyku a otocis sa do boku => bok
+> je horsi naraz ako celny naraz
+
+ak statis kontrolu pri pretacovam smyku (hodiny) tak len dupnut na brzdu
+a dufat (eliminacia skody na minimum))
+
+> automat je teoreticky lepsi kedze clovek nestihne robit tolko ukonov
+> naraz => moderny automat je na to stavany aby prebral co najviac
+> kontrolu. Staci len "kontra"  natocit volant kam checes ist a pustit
+> plyn
+
+Ak na dialnicu vybehne zajac radsej zrazit zajaca ako strhnut volant.
+
+To iste ak vbehne jelen na dialnicu. Je to celna zrazka ale
+Petacavy smyk je horsi => naraz z boku
+
+
+protiklzovy system (acc/tcs/asr)  taktiez zvany "trakcna kontrola" 
+
+ESC je nadstavka trakcnej kontroly -> napomaha stabilizovat vozidlo pri
+preacavom / nedotacavaom smyku tym ze zabrzdi len jedno koleso
+
+> ESC sa moze u roznych znaciek udavat ako TCS, ESC, DSA, PSM, ...to
+> iste
+
+ESC pri smyku vyrovna rotacny pohy okolo suvislej osi
+brzdenim jedneho kolesa. Ktore zabrzdi je zavislosti ci je smyk dotacavy alebo nedotacavy a do ktorej strany 
+
+ESC neda pohyb, len pribrzdi 
+
+### poznamky po jazdach
+
+na Suzuki Vitara som na letnych gumach presiel cez 30m na smyku a to len
+pri 50 km/h
+
+(v such 12m)
+
+pocas toho isteho treningu tam bola suzuki sx4 na novych zimnych
+pneumatikach ta zvladala situacie ovela ovela lepsie => zimne pneu su
+riadny rozdiel
+
+
+pri turbo benzinoch na takychto "manevroch" treba nehat motor stale
+bezat nech sa turbo neodpali kedze je to velka zataz na motor. nesetrit
+plivo
+
+suzuki vitara 2017 nema elektricku rucnu brzdu
+
+
+![](https://raw.githubusercontent.com/equivalent-philosophy/slova/master/assets/skola-smyku-8a.jpg)
