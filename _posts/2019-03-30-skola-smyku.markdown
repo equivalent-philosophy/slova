@@ -161,3 +161,4 @@ naprave)
 
 Manualna rucna brzda => cele  zle => nema abs =>Auto strati kontrolu ak
 sa zatiahne
+
