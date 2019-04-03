@@ -52,8 +52,21 @@ osmina). Maximalne tak vidiet rucky zadnych dveri. Je to z toho dovodu
 ze takto nemas slepe uhly (vidis auto v zrkadle aj ked je vedla teba,
 alebo ho vidis periferne)
 
-> manever kde pred nehodov spolujazdec da kolena na pristrojovku  pred havariau je somarina => airbag dolame nohy
+> manever kde pred nehodov spolujazdec da kolena na pristrojovku  pred havariau je somarina => airbag dolame nohy.
+> Najidealnejsie je len tak byt pri naraze a dufat ze sa auto postara o
+> bezpecnu havariu (airbag, pas, atd)
+
+Volvo je jedna z hlavnych znaciek aut ktore sa zameriava v prvom rade
+na bezpecnost
+
+EU auta vs Japonske auta => su stavane na rozne velkosti ludi. Preto v
+mojej Suzuki mi opierka hlavy nestaci na spravnu polohu.
+
+Kabaty a zimne bundy dole v aute pred jazdov pretoze pas neni prilnuty k
+telu uplne => stracaju sa  tam centimetre ktore zachrania zivot
+
+Vacsina modernich aut ma "pritahovac pasu" => ked sa supsti airbag tak
+zaroven ti pas ako keby pritiahlo => menej lietas v aute pri naraze 
 
 
-* Volvo je jedna z hlavnych znaciek aut ktore sa zameriava v prvom rade
-  na bezpecnost
+
