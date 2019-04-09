@@ -1,0 +1,56 @@
+---
+layout: post
+title: Vitaminy
+---
+
+
+
+* vitamin suplementy v "gumenych vitaminoch" su velice nepostacujuce na
+  hodnoty
+
+## Zelezo a Kalcium
+
+Zelezo (Iron) zabranuje absorbcii Kalcia (Calcium). 
+Vela dobrych multi-vitamin suplementov zelezo radsej neprida pretoze
+prioritou suplementu je dodat Calcium a ak by sa zelezo s kalciom
+nachazalo v jednej tablete byli by sa a telo by neabsorbovalo kalcium
+
+## Choline
+
+Velice potrebna latka pocas tehotenstva kedve nedostatkom Chalinu trpi
+vela tehotnych mamiciek
+
+
+## Folate (Vitamin B9)
+
+Pocas tehotenstva nedostatok Vitaminu B9 moze sposobit u vyvoji dietata
+chorobu NTD (neural tube defect, slovensky preklad choroby je asi
+Ráštep )
+
+V lekarnach sa bezne predava kyselina listova (Folic Acid) co je
+synteticka forma ktoru telo este musi byt skonvertovana na dietarny Folid
+`5-MTHF` (methyl folate).
+
+Dalsiou dietarnou formou vitaminu B9 je kacium-Folate `5-Formyl THF`
+ktory je potrebny na vytvaranie DNA struktur v tele.
+
+To znamena Kyselina Listova je synteticka zlucenina vyrobena v
+laboratoriu ktora sa musi
+prekonvertovat (methilizaciou) na methyl folate (prirodny B9) v nasom tele.
+ Problem je ze az tak dobre
+ludske telo ju nekonvertuje a niektory ludia maju geneticky defekt a
+konvertuju ju vobec. Existuje cca 15 roznych genov ktore ak ma
+jednotlivec
+defekt tan nedokaze prekonvertovat kyselinu listovu na Folate (40%-60%
+ludi na svete)
+
+> Vytamin B9 ktore tele potrebuje je methyl folate nie kyselina
+> lisotava (folic acid). Ak chces brat Folate tak si kup suplement 
+> v ktorom je methyl folate `5-MTHF` a kacium-Folate `5-Formyl THF`
+> (kedze potrebujete obe formy)
+
+Zdroje:
+
+* https://www.youtube.com/watch?v=gWiC4ZCS55Y
+* https://www.youtube.com/watch?v=tnVRv0zGsFY
+

@@ -22,11 +22,24 @@ ktore viem podlozit studiami/prezentaciami/videami.
 > Ak hladate skor zdroje v anglictine v lepsej kvalite ako je tento clanok odporucam [Kolekcia linkov o Keto, Low Carb a Fastingu](https://github.com/equivalent/awesome-links/blob/master/healthy-eating.md)
 
 
+
 ## Cholesterol
 
 Popularne zdroje bezne tvrdia ze existuje "Dobry Cholesterol" (HDL -
 *High Dense Lypoprotine*) a
 "Zly cholesterol" (LDL - *Low Dense Lypoprotine*).
+
+V skutocnosti LDL a HDL su Lipo proteiny ktore pomahaju roznasat cholesterol.
+
+> Cholesterol sam o sebe je jeden z najzakladnejsich stavebnych
+> materialov membrany bunky v nasom tele. 
+
+Takze to co nazyvame HDL cholesterol aj LDL cholesterol su vskutocnosti
+roznasace Cholesterolu. Vzdy ked si poskodite bunky v tele, potrebuju cholesterol na opravu.
+Prinesie ich LDL cholesterol (zly cholesterol). Bunka si z LDL molekuly odstrihne to co potrebuje
+na opravu a zvysna molekula LDL je o tolko mensia.
+
+Funkciou HDL cholesterolu je 
 
 Problem je vsak v tom
 ze aj LDL prichadza v dvoch formach molekuly a v pocte molekul.
@@ -46,6 +59,34 @@ malu melekulu (*small dense LDL*) Ked primate stravu v *Low Carb* alebo
 
 
 > Zdroj [Is Keto Bad For Your Heart — Dr. Eric Thorn](https://youtu.be/pxUD8fEHpTk?t=1244), [Dr. Rhonda Patrick on LDL at J.Roagan podcast](https://www.youtube.com/watch?v=VnYeuES3joc)
+
+#### Ako cholesterol (ne)zapchava cievy
+
+Tradicne (nespravne) ponimanie je taketo: LDL cholesterol zapchava
+cievy. Ked sa nahromadi v dostatocnom mnozntve dostate mrtvicu ( *stroke* )
+
+zdroj [Rhonda patrick J.Rogan podcast](https://youtu.be/VnYeuES3joc)
+
+
+#### Transfats
+
+Ak ste si na chlieb v mynulosti natieraly nahrady za maslo
+(vacsinou z repkoveho oleja) ako margarin, natierky ako Veto, Flora atd,
+stym ze je to zdravsie ako maslo tak ste (ako i ja) robili pre
+sovje zdravie strasne zle. *Transfats* (nahrady za saturovany tuk) 
+je jedna z  najhorsich veci pre zdravie.
+
+> Vyhybajte sa natierkam ako Veta a Flora. Niesu zdrave obsahuju *Transfats*.
+
+Transfats:
+
+* zrychluju starnutie
+* sposobuje srdcovocievne choroby
+
+
+zdroje:
+
+* [Sci-Show The Deal with Fat](https://www.youtube.com/watch?v=mvvx2yQRbzQ) (dolezite je pointa o strukture tuku nie o kalorickej teorie ktore tam spominaju kedze toto video je o tukoch vo vseobecnej strave nie v Keto diete)
 
 
 ## Studie proti Keto
@@ -76,5 +117,11 @@ argumentov, protiargumentov a protiargumentov proti protiargumentom.
 V co budete verit Vy je na Vas.
 
 
+## Zaujmave fakty
 
-
+* najviac Imunologickych buniek (organizmov ktore bojuju proti chorobam)
+je v crevach. Pretoze creva priamo vstrebavaju nutriny ktore mozu byt
+napadnute chorobamy [zdroj](https://youtu.be/VnYeuES3joc?t=380)
+* Zapal v tele ( *Inflamation* ) priamo vplyva na LDL cholesterol. To
+znamena ak si pod stresom, alebo mal is nieco nezdrave co zvysi zapal
+(karbo) a na druhy den ti beru krv, bude zvyseny.
