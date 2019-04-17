@@ -34,7 +34,7 @@ Ráštep )
 
 V lekarnach sa bezne predava kyselina listova (Folic Acid) co je
 synteticka forma ktoru telo este musi byt skonvertovana na dietarny Folid
-`5-MTHF` (methyl folate).
+`5-MTHF` (`5-methyltetrahydrofolate` - methyl folate).
 
 Dalsiou dietarnou formou vitaminu B9 je kacium-Folate `5-Formyl THF`
 ktory je potrebny na vytvaranie DNA struktur v tele.
@@ -47,7 +47,8 @@ ludske telo ju nekonvertuje a niektory ludia maju geneticky defekt a
 konvertuju ju vobec. Existuje cca 15 roznych genov ktore ak ma
 jednotlivec
 defekt tan nedokaze prekonvertovat kyselinu listovu na Folate (40%-60%
-ludi na svete)
+ludi na svete `genetic mutation of the MTHFR gene`)
+
 
 > Vytamin B9 ktore tele potrebuje je methyl folate nie kyselina
 > lisotava (folic acid). Ak chces brat Folate tak si kup suplement 
@@ -67,7 +68,43 @@ Zdroje:
 * <https://www.youtube.com/watch?v=gWiC4ZCS55Y>
 * <https://www.youtube.com/watch?v=tnVRv0zGsFY>
 * mala cast informaci je aj z dockumentarneho  filmu: "[Vitamania](https://www.vitamaniathemovie.com/)"
+* <https://www.needs.com/product/NDNL-1410-01/a-folate>
+
+### L- formy vs D- formy Methyl Folatu
+
+Vyskytuje sa mnoho mien pre dietarny Folid: 5-MTHF, methylfolate, 5-methyl tetrahydrafolate. Taktiez meno "dietarneho" folatu moze zatac `L-` alebo `6S-` napriklad "L-5-methyltetrahydrofolic".
+
+Ak zacina s "D-" tak sa jedna o **malo dietarne strebavanu fromu** a
+treba sa im vyhybat. Naprilkad `D-5-MTHF` =
+`D-5-Methyltetrahydrofolate`, `6(R)-L-MTHF`, `6(R)-LMethyltetrahydrofolate`
 
 
+### Metafolin a Femibion
+
+Na slovensku dostupny produkt Femibion ma v sebe Folid Acid a Metafolin.
+
+Metafolin je len marketingovy termin firmy "Merck" pre calciovu sol Metal folatu `calcium salt of L-5-methyltetrahydrofolic`. Mal by to byt ta dobra froma folatu (som si tak na 80% isty)
+
+
+* [Metafolin®](http://www.merckmillipore.com/SE/en/products/small-molecule-pharmaceuticals/bulk-api/folates/l-metafolin/Metafolin/okeb.qB.qsoAAAFp2m8bIm4h,nav)
+* <https://www.needs.com/product/NDNL-1410-01/a-folate>
+
+### Quatrafolic
+
+tiez len marketingovy nazom pre metafolin a mal by mal byt v pohode.
+Problem je ze niektore zdroje tvrdia ze je menej vstrebatelny. Nemam ho
+poriadne nastudovany preto odporucam precitat <https://www.needs.com/product/NDNL-1410-01/a-folate>
+
+
+### Extrafolate a Extrafolate-S 
+
+* Extrafolate je menej ucinny (50%)  -> vyhnut sa 
+* Extrafolate-S je dobry podobny Metafolin -> moze byt
+
+Pre viac info precitat <https://www.needs.com/product/NDNL-1410-01/a-folate>
+
+takze `L-` a `6S-` je dobry, `D-` je nie az tak dobry
+
+## Suhrn
 
 Eat vitamins from a plant not build in a factory plant
