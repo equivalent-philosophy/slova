@@ -13,7 +13,7 @@ casto krat priamo nevieme o chronickom zapale. Prejavuje sa neprijemnym
 pocitom, bolia stare zranenia, boli Vas brucho a desiatky inych
 priznakov.
 
-Pojnta je nasledovna:  "Rakovina nasleduje chronicky zapal v tele"
+Pojnta je nasledovna:  "**Rakovina nasleduje chronicky zapal v tele**"
 ([Zdroj - E. Berg on Infamation](https://www.youtube.com/watch?v=AHkvagiOE8U))
 
 > chronicky zapal je tiez asociovany s srdcovocievnym ochoronim,
@@ -29,12 +29,32 @@ miery bezlepkove.
 ked ma ine pozitivne vlasnosti. Pointa je ak si chcete dopriat nieco
 sladke ano dajte si cele čerstve ovocie alebo kusok Medu. Nie ale 3
 pomaranče a 5 lyžičik medu.
-* 
+* Alkohol (ci pivo, ci vino, ci tvrde)
+* fajčenie
+
+## Obrana proti rakovine
+
+Technicky vzate kazdy z nas ma v sebe rakovinu v tomto momente (poskodene bunky, mutovane bunky, atd...) Problem nastane v tedy ked telo strati schopnost regulovat tieto bunky.
+
+Telo ma enzymy ktore priamo odstranuje poskodene bunky (specialne enzymi
+aktivovane "NRF-2 pathway" o tom neskor) ktore sa staraju o recyklaciu
+cistenie tela
+
+Ak Telo konštantne bombardujeme carcinogenmy (fajcenie, praca v toxickom
+postredi) alebo stale do seba pchame potraviny ktore sposobuju zapal,
+pre telo je to privela a skor či neskor to nezvladne.
+
+Ano, vala robi aj
+genetika. Niektry mame preddispozicie k istym rakovinam pretoze nam
+spravne nepracuju niektore obranne geny a tvorba obrannynch enzymov.
+Lenze každy zodpveda za to čo dáva do seba Lenze každy zodpveda za to čo
+dáva do seba.
 
 ## Sulphuruphane
 
-zdroje:
+Sulphulu
 
+zdroje:
 
 [Dr. R. Patric - Sulforaphane](https://www.youtube.com/watch?v=zz4YVJ4aRfg)
 [Dr. R. Patric - Increasing sulforaphane
@@ -44,6 +64,7 @@ bioavailabilit](https://www.youtube.com/watch?v=19QFaV9Lj5I)
 ## Poznamky v EN
 
 * cancer is following path of inflamation
+* everyone have cancer in this moment (mutation, old cels, etc...), point is how well the body can regulate it. If it gets out of hand you have a cancer the desease 
 
 #### sulpuruphane
 
